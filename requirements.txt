@@ -1,0 +1,5 @@
+                               REQUIREMENTS FOR EXPERIMENTATION
+
+1. pip install --upgrade pyarrow – This ensures that we have the latest features, bug fixes provided by python developers. 
+
+2. pip install datasets – This is used for downloading the coursework dataset. 
