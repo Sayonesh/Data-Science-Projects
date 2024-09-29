@@ -1,4 +1,4 @@
-name: Test YAML file
+name: YAML file for RAG
 
 on:
   push:
