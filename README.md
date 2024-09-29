@@ -1,1 +1,1 @@
-This repository contains the AI and ML projects which I worked on.
+This repository contains my NLP project on sequence classification.
